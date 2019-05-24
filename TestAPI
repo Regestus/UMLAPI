@@ -1,0 +1,8 @@
+public class Papa{
+  protected String nom;
+
+}
+
+public class Enfant extends Papa{
+
+}
